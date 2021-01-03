@@ -1,7 +1,7 @@
 .background {
      background-image: linear-gradient(green,white,red);
      margin: auto;
-     max-width: 600px;
+     max-width: 10000px;
      font-size: 30pt;
      width: 90%;
 }
